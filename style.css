@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container {
+    height: 1100px;
+}
+
+.section-1 {
+    width: 100%;
+    height: 275px;
+    background-color: #00B4D8;
+    color: #FFFFFF;
+}
+
+.head-container{
+    padding-top: 25px;
+    padding-left: 20px;
+}
+.head-text{
+    font-family: 'Inter', sans-serif;
+    font-size: 60px;
+    font-weight: 400;
+}
+
+.navbar{
+    padding-left: 20px;
+}
+
+.nav-head{
+    font-family: 'Inter', sans-serif;
+    font-size: 45px;
+    font-weight: 700;
+}
+
+.nav-list{
+    font-family: 'Inter', sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+    padding-left: 65px;
+    list-style: none;
+}
+
+.section-2 {
+    width: 100%;
+    height: 190px;
+    background-color: #F4A261;
+    color:#00D83C;
+    margin-top: 40px;
+}
+
+.section2-text {
+    font-family: 'Inter', sans-serif;
+    font-size: 35px;
+    font-weight: 400;
+    font-style: italic;
+    text-align: center;
+    padding-top: 15px;
+    padding-left: 35px;
+    width: 1261px;
+}
+
+.section-3 {
+    width: 100%;
+    height: 350px;
+    background-color: #61F4AD;
+    margin-top: 20px;
+}
+
+.section3-head {
+    font-family: 'Inter', sans-serif;
+    font-size: 35px;
+    font-weight: 400;
+    color: white;
+    padding: 45px 0px 25px 50px;
+}
+
+.section3-text {
+    background-color: #9D0208;
+    height: 190px;
+}
+
+.main-text {
+    width: 1250px;
+    font-family: 'Inter', sans-serif;
+    font-size: 35px;
+    font-weight: 400;
+    font-style: italic;
+    text-align: right;
+    padding-top: 15px;
+    padding-left: 80px;
+}
+
+.footer {
+    margin-top: 70px;
+    height: 155px;
+    background-color: #D9D9D9;
+}
+
+.footer-text{
+    font-family: 'Inter', sans-serif;
+    font-size: 35px;
+    font-weight: 700;
+    color: #011627;
+    text-shadow: 2px 1px;
+    padding-top: 15px;
+    padding-left: 30px;
+    text-decoration: underline;
+}
